@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a0c8be48-a9b3-4b8f-85b6-9c7d56924990"
+      }
+    },
+    "owner": "mitch-coder"
   }
 }
