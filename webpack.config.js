@@ -10,7 +10,7 @@ module.exports = async function (env, argv) {
     include: [
       path.join(__dirname, 'node_modules/react-router-native')
     ]
-  })
+  })   
 
   return config
 }   

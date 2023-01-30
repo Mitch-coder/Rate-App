@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
     container:{
         padding:20,
         paddingVertical:5
-    },
+    },  
     language:{
         backgroundColor:theme.colors.primary,
         alignSelf:'flex-start',
