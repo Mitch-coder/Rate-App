@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
         paddingTop:Constants.statusBarHeight + 10,
         paddingBottom:10,
         paddingLeft:10
-    },
+    },            
     active:{
         color:theme.appBar.textPrimary
     },
